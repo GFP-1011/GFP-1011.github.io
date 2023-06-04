@@ -20,3 +20,7 @@ My current research focuses on apply deep learning to low-dose CT reconstuction.
 - **<font color='red'>[News]</font> I am actively searching for a PhD program!**
 - **<font color='cyan'>Master’s Degree</font>** in Electronic Information (09/2020 - 06/2023)
 - **<font color='cyan'>Bachelor’s Degree</font>** in Automation (09/2016 - 06/2020)
+
+## Publication
+* 121321
+* 2323223
