@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="IMG_0316ps.jpg" class="floatpic" width="640">
+<img src="IMG_0316ps.jpg" class="floatpic" width="720">
 
 Here is **Fupei Guo (郭馥佩)**.
 
