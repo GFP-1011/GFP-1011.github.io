@@ -8,7 +8,7 @@ layout: page
 
 Here is **Fupei Guo (郭馥佩)**.
 
-I am a junior majoring in **Automation** at University of Electronic Science and Technology of China (China) . 
+I am a junior majoring in **Automation** at University of Electronic Science and Technology of China (China). 
 
 
 ## Research Interests
@@ -18,7 +18,7 @@ My current research focuses on apply deep learning to low-dose CT reconstuction.
 ## Educations
 
 - **<font color='red'>[News]</font> I am actively searching for a PhD program!**
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
+- **May 2023：**Bachelor’s Degree in Biosciences (08/2010 - 06/2014)
 - **May 2023：**Happy to win the Finalist Award in MCM 2023.
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
