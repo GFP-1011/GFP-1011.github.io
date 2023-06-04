@@ -22,5 +22,10 @@ My current research focuses on apply deep learning to low-dose CT reconstuction.
 - **<font color='cyan'>Bachelor’s Degree</font>** in Automation (09/2016 - 06/2020)
 
 ## Publication
-* 121321
-* 2323223
+* **Power Frequency Estimation Using Sine Filtering of Optimal Initial Phase**\
+**Guo Fupei**, Yang Bo, Zheng Wenfeng, Liu Shan\
+**Measurement** 2021
+
+* **Sparse-view CBCT reconstruction via weighted Schatten p-norm minimization**\
+Xu Congcong, Yang Bo, **Guo Fupei**, Zheng Wenfeng, Poignet Philippe\
+**Optics Express** 2020
