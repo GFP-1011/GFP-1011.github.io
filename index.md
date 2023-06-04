@@ -8,14 +8,14 @@ layout: page
 
 Here is **Fupei Guo (郭馥佩)**.
 
-I am a junior majoring in **Automation** at University of Electronic Science and Technology of China (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). 
+I am a junior majoring in **Automation** at University of Electronic Science and Technology of China (China) . 
 
 
 ## Research Interests
 
-My current research focuses on apply deep learning to low-dose CT reconstuction. My interests are on the **Machine Learning** and its applications in **Medical Imaging**. In a word, advanced technologies like ML and MI positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on apply deep learning to low-dose CT reconstuction. My interests are on the **Machine Learning** and its applications in **Biomedical Imaging**. In a word, advanced technologies like ML and MI positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
-## News and Updates
+## Educations
 
 - **<font color='red'>[News]</font> I am actively searching for a PhD program!**
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
