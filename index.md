@@ -4,18 +4,18 @@ layout: page
 
 # About Me
 
-<img src="IMG_0316ps.jpg" class="floatpic" width="720">
+<img src="IMG_0316ps.jpg" class="floatpic" width="820">
 
 Hi,I'm **Fupei Guo (郭馥佩)**.
 
-I am currently pursuing my Master's degree at the University of Electronic Science and Technology of China, where I have been part of the Medical Digital Image Processing Group.
+I am currently pursuing my Master's degree at the University of Electronic Science and Technology of China, where I have been part of **Medical Digital Image Processing Lab**.
 
 
 
 ## Research Interests
 
-My current research focuses on apply deep learning to low-dose CT reconstuction. My interests are on the **Machine Learning** and its applications in **Biomedical Imaging**. \
-In a word, advanced technologies like ML and BI positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on apply deep learning to low-dose CT reconstuction. My interests are on the **Machine Learning** and its applications in **Biomedical Imaging**. 
+<!-- In a word, advanced technologies like ML and BI positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
 
 ## Educations
 
