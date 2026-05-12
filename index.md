@@ -32,7 +32,7 @@ My research interests lie in **Medical Image Processing** and **Semantic Communi
 
 * **[Task-Adaptive Semantic Communications with Controllable Diffusion-based Data Regeneration](https://arxiv.org/abs/2505.07980)**\
 **Fupei Guo**, Achintha Wijesinghe, Songyang Zhang, Zhi Ding\
-*IEEE Global Communications Conference (GLOBECOM)*, 2025
+*IEEE Global Communications Conference (GLOBECOM) Workshop*, 2025
 
 * **[An Efficient Sinogram Domain Fully Convolutional Interpolation Network for Sparse-View Computed Tomography Reconstruction](https://doi.org/10.3390/app132011264)**\
 **Fupei Guo**, Bo Yang, Hao Feng, Wenfeng Zheng, Lirong Yin, Zhengtong Yin, Chao Liu\
