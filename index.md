@@ -20,11 +20,28 @@ My research interests lie in **Medical Image Processing** and **Semantic Communi
 - <span class="edu-label">Master’s Degree</span> in Electronic Information, University of Electronic Science and Technology of China (09/2020 - 06/2023)
 - <span class="edu-label">Bachelor’s Degree</span> in Automation (09/2016 - 06/2020)
 
-## Publication
+## Publications
+
+* **[RadioKMoE: Knowledge-Guided Radiomap Estimation with Kolmogorov-Arnold Networks and Mixture-of-Experts](https://arxiv.org/abs/2511.16986)**\
+**Fupei Guo**, Kerry Pan, Songyang Zhang, Yue Wang, Zhi Ding\
+*arXiv preprint*, 2025
+
+* **[DiSC-Med: Diffusion-based Semantic Communications for Robust Medical Image Transmission](https://arxiv.org/abs/2508.00172)**\
+**Fupei Guo**, Hao Zheng, Xiang Zhang, Li Chen, Yue Wang, Songyang Zhang\
+*IEEE Global Communications Conference (GLOBECOM)*, 2025
+
+* **[Task-Adaptive Semantic Communications with Controllable Diffusion-based Data Regeneration](https://arxiv.org/abs/2505.07980)**\
+**Fupei Guo**, Achintha Wijesinghe, Songyang Zhang, Zhi Ding\
+*arXiv preprint*, 2025
+
+* **[An Efficient Sinogram Domain Fully Convolutional Interpolation Network for Sparse-View Computed Tomography Reconstruction](https://doi.org/10.3390/app132011264)**\
+**Fupei Guo**, Bo Yang, Hao Feng, Wenfeng Zheng, Lirong Yin, Zhengtong Yin, Chao Liu\
+*Applied Sciences*, 2023
+
 * **Power Frequency Estimation Using Sine Filtering of Optimal Initial Phase**\
 **Guo Fupei**, Yang Bo, Zheng Wenfeng, Liu Shan\
-**Measurement** 2021
+*Measurement*, 2021
 
 * **Sparse-view CBCT reconstruction via weighted Schatten p-norm minimization**\
 Xu Congcong, Yang Bo, **Guo Fupei**, Zheng Wenfeng, Poignet Philippe\
-**Optics Express** 2020
+*Optics Express*, 2020
