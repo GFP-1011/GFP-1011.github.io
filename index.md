@@ -6,22 +6,19 @@ layout: page
 
 <img src="IMG_0316ps.jpg" class="floatpic" width="820">
 
-Hi,I'm **Fupei Guo (郭馥佩)**.
+Hi, I’m **Fupei Guo (郭馥佩)**.
 
-I am currently pursuing my Master's degree at the University of Electronic Science and Technology of China, where I have been part of **Medical Digital Image Processing Lab**.
-
-
+I am currently a PhD student in the Department of Systems Engineering at the **University of Louisiana at Lafayette (ULL)**.
 
 ## Research Interests
 
-My current research focuses on apply deep learning to low-dose CT reconstuction. My interests are on the **Machine Learning** and its applications in **Biomedical Imaging**. 
-<!-- In a word, advanced technologies like ML and BI positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
+My research interests lie in **Medical Image Processing** and **Semantic Communication**. I am particularly interested in applying deep learning to biomedical imaging tasks such as low-dose CT reconstruction, as well as exploring semantic communication systems that transmit task-relevant information efficiently.
 
 ## Educations
 
-- **<font color='red'>[News]</font> I am actively searching for a PhD program!**
-- **<font color='cyan'>Master’s Degree</font>** in Electronic Information (09/2020 - 06/2023)
-- **<font color='cyan'>Bachelor’s Degree</font>** in Automation (09/2016 - 06/2020)
+- **<font color=’cyan’>Ph.D. Student</font>** in Systems Engineering, University of Louisiana at Lafayette (08/2023 - Present)
+- **<font color=’cyan’>Master’s Degree</font>** in Electronic Information, University of Electronic Science and Technology of China (09/2020 - 06/2023)
+- **<font color=’cyan’>Bachelor’s Degree</font>** in Automation (09/2016 - 06/2020)
 
 ## Publication
 * **Power Frequency Estimation Using Sine Filtering of Optimal Initial Phase**\
