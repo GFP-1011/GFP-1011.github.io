@@ -12,13 +12,13 @@ I am currently a PhD student in the Department of Systems Engineering at the **U
 
 ## Research Interests
 
-My research interests lie in **Medical Image Processing** and **Semantic Communication**. I am particularly interested in exploring semantic communication systems that transmit task-relevant information efficiently.
+My research interests lie in **Medical Image Processing** and **Semantic Communication**.
 
 ## Educations
 
-- **<font color=’#4a9aba’>Ph.D. Student</font>** in Systems Engineering, University of Louisiana at Lafayette (08/2023 - Present)
-- **<font color=’#4a9aba’>Master’s Degree</font>** in Electronic Information, University of Electronic Science and Technology of China (09/2020 - 06/2023)
-- **<font color=’#4a9aba’>Bachelor’s Degree</font>** in Automation (09/2016 - 06/2020)
+- <span style="color:#4a9aba;font-weight:bold">Ph.D. Student</span> in Systems Engineering, University of Louisiana at Lafayette (08/2023 - Present), advised by Prof. Songyang Zhang
+- <span style="color:#4a9aba;font-weight:bold">Master’s Degree</span> in Electronic Information, University of Electronic Science and Technology of China (09/2020 - 06/2023)
+- <span style="color:#4a9aba;font-weight:bold">Bachelor’s Degree</span> in Automation (09/2016 - 06/2020)
 
 ## Publication
 * **Power Frequency Estimation Using Sine Filtering of Optimal Initial Phase**\
