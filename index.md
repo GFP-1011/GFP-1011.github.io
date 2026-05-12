@@ -18,7 +18,7 @@ My research interests lie in **Medical Image Processing** and **Semantic Communi
 
 - <span class="edu-label">Ph.D. Student</span> in Systems Engineering, University of Louisiana at Lafayette, USA (08/2023 - Present), advised by Prof. Songyang Zhang
 - <span class="edu-label">Master’s Degree</span> in Electronic Information, University of Electronic Science and Technology of China, China (09/2020 - 06/2023)
-- <span class="edu-label">Bachelor’s Degree</span> in Automation, China (09/2016 - 06/2020)
+- <span class="edu-label">Bachelor’s Degree</span> in Automation, Southwest Jiaotong University, China (09/2016 - 06/2020)
 
 ## Publications
 
