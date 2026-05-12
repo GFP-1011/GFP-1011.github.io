@@ -12,13 +12,13 @@ I am currently a PhD student in the Department of Systems Engineering at the **U
 
 ## Research Interests
 
-My research interests lie in **Medical Image Processing** and **Semantic Communication**. I am particularly interested in applying deep learning to biomedical imaging tasks such as low-dose CT reconstruction, as well as exploring semantic communication systems that transmit task-relevant information efficiently.
+My research interests lie in **Medical Image Processing** and **Semantic Communication**. I am particularly interested in exploring semantic communication systems that transmit task-relevant information efficiently.
 
 ## Educations
 
-- **<font color=’cyan’>Ph.D. Student</font>** in Systems Engineering, University of Louisiana at Lafayette (08/2023 - Present)
-- **<font color=’cyan’>Master’s Degree</font>** in Electronic Information, University of Electronic Science and Technology of China (09/2020 - 06/2023)
-- **<font color=’cyan’>Bachelor’s Degree</font>** in Automation (09/2016 - 06/2020)
+- **<font color=’#4a9aba’>Ph.D. Student</font>** in Systems Engineering, University of Louisiana at Lafayette (08/2023 - Present)
+- **<font color=’#4a9aba’>Master’s Degree</font>** in Electronic Information, University of Electronic Science and Technology of China (09/2020 - 06/2023)
+- **<font color=’#4a9aba’>Bachelor’s Degree</font>** in Automation (09/2016 - 06/2020)
 
 ## Publication
 * **Power Frequency Estimation Using Sine Filtering of Optimal Initial Phase**\
