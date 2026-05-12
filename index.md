@@ -23,7 +23,7 @@ My research interests lie in **Medical Image Processing** and **Semantic Communi
 ## Publications
 
 * **[RadioKMoE: Knowledge-Guided Radiomap Estimation with Kolmogorov-Arnold Networks and Mixture-of-Experts](https://arxiv.org/abs/2511.16986)**\
-**F. Guo**, K. Pan, S. Zhang\*, Y. Wang, and Z. Ding\
+**Fupei Guo**, Kerry Pan, Songyang Zhang\*, Yue Wang, Zhi Ding\
 *IEEE Wireless Communications Letters*, 2026
 
 * **[DiSC-Med: Diffusion-based Semantic Communications for Robust Medical Image Transmission](https://arxiv.org/abs/2508.00172)**\
@@ -39,9 +39,9 @@ My research interests lie in **Medical Image Processing** and **Semantic Communi
 *Applied Sciences*, 2023
 
 * **Power Frequency Estimation Using Sine Filtering of Optimal Initial Phase**\
-**Guo Fupei**, Yang Bo, Zheng Wenfeng, Liu Shan\
+**Fupei Guo**, Bo Yang, Wenfeng Zheng, Shan Liu\
 *Measurement*, 2021
 
 * **Sparse-view CBCT reconstruction via weighted Schatten p-norm minimization**\
-Xu Congcong, Yang Bo, **Guo Fupei**, Zheng Wenfeng, Poignet Philippe\
+Congcong Xu, Bo Yang, **Fupei Guo**, Wenfeng Zheng, Philippe Poignet\
 *Optics Express*, 2020
