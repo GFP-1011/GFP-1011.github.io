@@ -16,10 +16,15 @@ My research interests lie in **Medical Image Processing** and **Semantic Communi
 
 ## Educations
 
-- <span class="edu-label">Ph.D. Student</span> in Systems Engineering, University of Louisiana at Lafayette, USA (08/2023 - Present)- <span class="edu-label">Master’s Degree</span> in Electronic Information, University of Electronic Science and Technology of China, China (09/2020 - 06/2023)
+- <span class="edu-label">Ph.D. Student</span> in Systems Engineering, University of Louisiana at Lafayette, USA (08/2024 - Present)
+- <span class="edu-label">Master’s Degree</span> in Electronic Information, University of Electronic Science and Technology of China, China (09/2020 - 06/2023)
 - <span class="edu-label">Bachelor’s Degree</span> in Automation, Southwest Jiaotong University, China (09/2016 - 06/2020)
 
 ## Publications
+
+* **A Comprehensive Survey on Spectrum Cartography: State-of-the-Art, Trends, and Challenges**\
+Dong Yang, **Fupei Guo**, Yue Wang, Songyang Zhang, Zhi Tian, Zhi Ding, Zhipeng Cai\
+*IEEE Communications Surveys & Tutorials*, vol. 28, 2026
 
 * **[RadioKMoE: Knowledge-Guided Radiomap Estimation with Kolmogorov-Arnold Networks and Mixture-of-Experts](https://arxiv.org/abs/2511.16986)**\
 **Fupei Guo**, Kerry Pan, Songyang Zhang\*, Yue Wang, Zhi Ding\
