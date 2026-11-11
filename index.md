@@ -23,8 +23,9 @@ My research interests lie in **Medical Image Processing** and **Semantic Communi
 ## Publications
 
 * **A Comprehensive Survey on Spectrum Cartography: State-of-the-Art, Trends, and Challenges**\
-Dong Yang, **Fupei Guo**, Yue Wang, Songyang Zhang, Zhi Tian, Zhi Ding, Zhipeng Cai\
-*IEEE Communications Surveys & Tutorials*, vol. 28, 2026
+Dong Yang<sup>†</sup>, **Fupei Guo<sup>†</sup>**, Yue Wang, Songyang Zhang, Zhi Tian, Zhi Ding, Zhipeng Cai\
+*IEEE Communications Surveys & Tutorials*, vol. 28, 2026\
+<sup>†</sup> **Equal contribution (co-first authors).**
 
 * **[RadioKMoE: Knowledge-Guided Radiomap Estimation with Kolmogorov-Arnold Networks and Mixture-of-Experts](https://arxiv.org/abs/2511.16986)**\
 **Fupei Guo**, Kerry Pan, Songyang Zhang\*, Yue Wang, Zhi Ding\
